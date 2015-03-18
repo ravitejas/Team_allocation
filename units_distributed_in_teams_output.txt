@@ -1,0 +1,4 @@
+Team_Number --- Units_in_Team --- Team_Power 
+
+0 --- 5, 7, 6 --- 34
+1 --- 2, 1, 0, 3, 4 --- 35
